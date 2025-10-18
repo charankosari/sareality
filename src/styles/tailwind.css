@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* global custom styles */
+:root {
+  --muted: #6b6b6b;
+}
+
+/* small utilities to preserve the clean look */
+.hero-title {
+  @apply text-4xl md:text-5xl font-extrabold leading-tight;
+}
+.muted {
+  color: var(--muted);
+}
+/* ensure container width is preserved */
+/* ensure container width is preserved */
+.container {
+  max-width: 1200px;
+}
+
+/* hero title bigger on large screens */
+.hero-title {
+  @apply text-4xl md:text-5xl font-extrabold leading-tight;
+}
+
+/* muted color */
+.muted {
+  color: #6b6b6b;
+}
+
+/* small shadow for cards */
+.card {
+  @apply transition-shadow;
+}

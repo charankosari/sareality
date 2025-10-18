@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "title": "Modern Hillside Villa",
+    "location": "Malibu, California",
+    "price": "$2,850,000",
+    "beds": 4,
+    "baths": 3,
+    "area": "3,200 sqft",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1200&q=60",
+    "description": "Stunning ocean-view villa with floor-to-ceiling windows, infinity pool, and panoramic Pacific coastline views. Features modern architecture with sustainable materials."
+  },
+  {
+    "id": "2",
+    "title": "Urban Loft Penthouse",
+    "location": "Brooklyn, New York",
+    "price": "$1,650,000",
+    "beds": 3,
+    "baths": 2,
+    "area": "1,800 sqft",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=60",
+    "description": "Contemporary loft with exposed brick, high ceilings, and Manhattan skyline views. Open-concept living with premium finishes throughout."
+  },
+  {
+    "id": "3",
+    "title": "Mountain Retreat",
+    "location": "Aspen, Colorado",
+    "price": "$3,200,000",
+    "beds": 5,
+    "baths": 4,
+    "area": "4,500 sqft",
+    "image": "https://ntrdd.mlsmatrix.com/mediaserver/GetMedia.ashx?Key=542592631&TableID=9&Type=1&Number=0&Size=2&exk=423beae1d80f4102e04c47593eeab9e7",
+    "description": "Luxury mountain home with ski-in/ski-out access, stone fireplace, and breathtaking Rocky Mountain views. Perfect for year-round mountain living."
+  },
+  {
+    "id": "4",
+    "title": "Modern Glass House",
+    "location": "Austin, Texas",
+    "price": "$1,950,000",
+    "beds": 4,
+    "baths": 3,
+    "area": "2,800 sqft",
+    "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=1600&q=60",
+    "description": "Architectural masterpiece with floor-to-ceiling glass walls, smart home technology, and seamless indoor-outdoor living. Located in trendy South Austin."
+  },
+  {
+    "id": "5",
+    "title": "Historic Brownstone",
+    "location": "Boston, Massachusetts",
+    "price": "$2,100,000",
+    "beds": 3,
+    "baths": 2,
+    "area": "2,200 sqft",
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1600&q=60",
+    "description": "Beautifully restored 19th-century brownstone with original details, modern amenities, and private garden. Located in historic Beacon Hill."
+  },
+  {
+    "id": "6",
+    "title": "Desert Modern",
+    "location": "Scottsdale, Arizona",
+    "price": "$1,750,000",
+    "beds": 3,
+    "baths": 3,
+    "area": "2,400 sqft",
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1600&q=60",
+    "description": "Stunning desert modern home with panoramic mountain views, infinity pool, and sustainable design. Features solar panels and water-efficient landscaping."
+  }
+]
